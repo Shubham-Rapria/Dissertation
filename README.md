@@ -18,13 +18,13 @@ Flask==1.1.1
 fuzzywuzzy==0.18.0
 
 ### Also these files has to be in same folder where script is running .
-Calories.csv
-mask_rcnn_food_segmentation.h5
-model.h5
-monovideo_fine_tune_food_videos.h5
-monovideo_fine_tune_food_videos.json
-volume_estimator1.py
-Code.ipynb
+- Calories.csv
+- mask_rcnn_food_segmentation.h5
+- model.h5
+- monovideo_fine_tune_food_videos.h5
+- monovideo_fine_tune_food_videos.json
+- volume_estimator1.py
+- Code.ipynb
 
 
  
